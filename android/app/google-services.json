@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493947370417",
+    "firebase_url": "https://reus-bb7c7.firebaseio.com",
+    "project_id": "reus-bb7c7",
+    "storage_bucket": "reus-bb7c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493947370417:android:0d444a4cb929e9ce",
+        "android_client_info": {
+          "package_name": "com.makers.reus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493947370417-c27pctms03nd808fphviikli4gu8ich1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQTPeB8sFxkIwT9WtgOXzQsuCj9RXmaE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493947370417-c27pctms03nd808fphviikli4gu8ich1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
